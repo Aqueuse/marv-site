@@ -4,8 +4,6 @@ Une timeline vous permet de gérer la succession d'images, de sons et/ou de vid�
 
 Pour ouvrir la timeline d'une animation, cliquez droit sur l'animation => [éditer l'action] => [ouvrir timeline].
 
-   ![presentation timeline](/assets/images/docs/timeline_overview.png)
-
 ## fichiers
 
 Pour ajouter des fichiers (audio, video, etc), cliquez sur le bouton d'upload.
@@ -37,14 +35,13 @@ En cliquant sur un fichier dans la timeline, vous pouvez visualiser ses proprié
 
 Les clés permettent d'ajouter des effets à un fichier. Par exemple, faire tourner une image sur elle-même pendant 5 secondes.
 
+   ![clé](/assets/images/docs/marv-timeline-keys.png)
+
 
 Par défaut, il y a toujours une première clé à l'ajout d'un fichier. 
 
 
 > :warning: **S'il n'y aucune clé, l'animation ne s'affichera pas.**
-
-
-// screenshot anatomie d'une clé (nommer les parties d'une clé)
 
 
 Pour **ajouter** une clé, double cliquez gauche dans la timeline. Pour la **supprimer**, faites un double clique droit sur la poignée. Une clé sélectionnée apparait en jaune. La largeur d'une clé détermine sa durée. Vous pouvez modifier la durée en faisant glisser la poignée vers la gauche ou la droite.
