@@ -4,7 +4,7 @@ Une timeline vous permet de gérer la succession d'images, de sons et/ou de vid�
 
 Pour ouvrir la timeline d'une animation, cliquez droit sur l'animation => [éditer l'action] => [ouvrir timeline].
 
-## fichiers
+## Fichiers
 
 Pour ajouter des fichiers (audio, video, etc), cliquez sur le bouton d'upload.
 
@@ -20,7 +20,7 @@ En cliquant sur un fichier dans la timeline, vous pouvez visualiser ses proprié
 
 // screenshot panneau latéral droit
 
-### videos / Images
+### Vidéos / Images
 
 > Pour un affichage cohérent entre Marv et OBS, il faut mettre l'animation aux même dimensions que l'overlay marv dans obs (cf screenshot ci dessous).
 
