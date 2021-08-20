@@ -24,7 +24,7 @@ En cliquant sur un fichier dans la timeline, vous pouvez visualiser ses proprié
 
 > Pour un affichage cohérent entre Marv et OBS, il faut mettre l'animation aux même dimensions que l'overlay marv dans obs (cf screenshot ci dessous).
 
-   ![dimensions](/assets/images/docs/timeline-dimensions.png)
+   ![dimensions](/assets/images/docs/timeline_dimensions.png)
 
 ### Audio
 
@@ -35,7 +35,7 @@ En cliquant sur un fichier dans la timeline, vous pouvez visualiser ses proprié
 
 Les clés permettent d'ajouter des effets à un fichier. Par exemple, faire tourner une image sur elle-même pendant 5 secondes.
 
-   ![clé](/assets/images/docs/marv-timeline-keys.png)
+   ![clé](/assets/images/docs/marv_timeline_keys.png)
 
 
 Par défaut, il y a toujours une première clé à l'ajout d'un fichier. 
